@@ -1,2 +1,2 @@
 # HelloWorld
-JS repository
+JS homework
